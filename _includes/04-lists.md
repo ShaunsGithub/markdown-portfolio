@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+<h1>A List of my Some of my Favourite Things<h6>
+
+* Playing video games
+* Playing soccer with my pals
+  * Basketball is okay
+ * Reading sometimes
