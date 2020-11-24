@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am decent at C++*  
+**I did some Action Script as an Intro to computer science.**
